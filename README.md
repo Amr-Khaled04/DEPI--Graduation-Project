@@ -20,11 +20,11 @@ This project is our graduation project for the **Digital Egyptian Pioneers Initi
 ## Team
 
 - **Mentor:** Mohamed Gomaa
-- **Team Members:** Mariam Hassan, Rana Mohamed, Noor Tariq, Nour El-Maghraby, Salem Azzam, Omar Mohammed Samy, Youssef Abdelfatah Abdelazeem Azzam Mohamed
+- **Team Members:** Amr Khaled, Mariam Hassan, Rana Mohamed, 
 
 ## Special Thanks
 
-Special thanks to **AMIT Learning** for providing a supportive and inspiring environment throughout the project.
+Special thanks to **Eng.Mohamed Gomaa** for providing a supportive and inspiring environment throughout the project.
 
 ## Technologies Used
 
