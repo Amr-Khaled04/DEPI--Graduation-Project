@@ -1,0 +1,7 @@
+PIL
+folium
+joblib
+pandas
+plotly
+streamlit
+streamlit_folium
